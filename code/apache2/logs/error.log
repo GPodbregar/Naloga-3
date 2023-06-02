@@ -1,0 +1,5 @@
+[Mon May 29 14:35:32.010611 2023] [mpm_winnt:notice] [pid 6964:tid 620] AH00455: Apache/2.4.41 (Win32) PHP/7.4.3 configured -- resuming normal operations
+[Mon May 29 14:35:32.010611 2023] [mpm_winnt:notice] [pid 6964:tid 620] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:32:28
+[Mon May 29 14:35:32.010611 2023] [core:notice] [pid 6964:tid 620] AH00094: Command line: 'C:\\Users\\gasper\\Desktop\\naloga 3\\code/apache2/bin/httpd_usbwv8.exe -d C:/Users/gasper/Desktop/naloga 3/code/apache2'
+[Mon May 29 14:35:32.014237 2023] [mpm_winnt:notice] [pid 6964:tid 620] AH00418: Parent: Created child process 11140
+[Mon May 29 14:35:32.423927 2023] [mpm_winnt:notice] [pid 11140:tid 544] AH00354: Child: Starting 64 worker threads.
